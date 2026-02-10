@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Baltazar 👋
 
-<!--
-**BaltazarFerreyra/BaltazarFerreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Tester focused on manual and web testing.
 
-Here are some ideas to get you started:
+### 🧪 QA Skills
+- Manual testing
+- Test case design
+- Bug reporting
+- Regression & smoke testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools
+- Azure DevOps
+- Git / GitHub
+- Chrome DevTools
+
+### 🌐 Web Background
+- HTML, CSS
+- Astro, Tailwind, React
+
+📫 Contact: bferre151@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/...
