@@ -1,21 +1,16 @@
 ## Hi, I'm Baltazar 👋
 
-QA Tester focused on manual and web testing.
+Full Stack Web Developer & Systems Analyst Student with a strong focus on building fast, modern web interfaces.
 
-### 🧪 QA Skills
-- Manual testing
-- Test case design
-- Bug reporting
-- Regression & smoke testing
+### 💻 Tech Stack
+- **Frontend:** React, Astro, Tailwind CSS, JavaScript
+- **Backend & DB:** Node.js, C#, SQL
+- **Testing:** Playwright (E2E & UI Testing)
 
-### 🛠 Tools
-- Azure DevOps
+### 🛠 Tools & Cloud
 - Git / GitHub
-- Chrome DevTools
-
-### 🌐 Web Background
-- HTML, CSS
-- Astro, Tailwind, React
+- Cloudflare, Vercel, Cloudinary
+- Cursor
 
 📫 Contact: bferre151@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/...
+🔗 LinkedIn: [Baltazar Ferreyra](https://www.linkedin.com/in/baltazar-ferreyra-b804583a9/)
